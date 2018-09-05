@@ -1,4 +1,4 @@
-# Extração de links dentro do Markdown v.1.0.0
+# Extração de links dentro do Markdown
 
 **Esta biblioteca se destina à extração de links dentro de um markdown.**
 Na versão atual é capaz de localizar os links dentro do markdown, extrai-los e separa-los em um array contendo suas informações em um objeto.
