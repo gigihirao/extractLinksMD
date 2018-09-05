@@ -1,0 +1,31 @@
+{
+  "name": "extractlinksmd",
+  "version": "1.0.0",
+  "description": "extract links from markdown",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gigihirao/extractLinksMD.git"
+  },
+  "keywords": [
+    "extract",
+    "links",
+    "markdown"
+  ],
+  "author": "gigihirao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gigihirao/extractLinksMD/issues"
+  },
+  "homepage": "https://github.com/gigihirao/extractLinksMD#readme",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.5.0"
+  }
+}
